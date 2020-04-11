@@ -1,1 +1,1 @@
-# Rick-and-Morty-Quotes-Chrome-Extension-NewTab
+# Hide Ads In Search Results
