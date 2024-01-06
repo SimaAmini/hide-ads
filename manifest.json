@@ -3,7 +3,7 @@
   "name": "Hide Ads in search results",
   "description": "Hide Ads in search results in google.com page",
   "author": "Sima Amini",
-  "manifest_version": 2,
+  "manifest_version": 3,
   "icons": {
     "16": "images/icon16.png",
     "48": "images/icon48.png",
@@ -13,7 +13,7 @@
     "matches": ["<all_urls>"],
     "js": ["app.js"]
   } ],
-  "browser_action": {
+  "action": {
     "default_title": "Hide Ads in search results"
   },
   "version": "1.0"
